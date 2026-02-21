@@ -74,3 +74,12 @@ An interactive dashboard built in Google Sheets featuring:
 |--------|--------|
 | Working File | Google Sheets / Excel (.xlsx) |
 | Final Dashboard | Google Sheets with Slicers & Pivot Charts |
+
+## catatan
+1. sebelum memulai kita harus paham dulu apa yang diingkan, apa keperluannya, siapa pic yang membutuhkan
+
+karakteristik orang yang membutuhkan dashboard adalah orang ini keingintahuannya besar, mau eksploratif
+
+karena data analyst adalah penyampai pesan, agar tersampai harus pas, tidak kurang tidak lebih
+
+pastikan juga tau definisi dari setiap kolom
